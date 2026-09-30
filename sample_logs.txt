@@ -1,0 +1,10 @@
+2026-10-01 09:00:00 ERROR database-service Connection lost
+2026-10-01 09:00:05 INFO auth-service User logged in
+2026-10-01 09:00:10 ERROR database-service Query timeout
+2026-10-01 09:00:15 WARN payment-service Slow response
+2026-10-01 09:00:20 FATAL database-service Database unavailable
+2026-10-01 09:00:25 ERROR payment-service Payment failed
+invalid log entry
+2026-10-01 09:00:30 DEBUG auth-service Token validated
+2026-10-01 09:00:35 ERROR database-service Connection refused
+2026-10-01 09:00:40 INFO payment-service Payment successful
